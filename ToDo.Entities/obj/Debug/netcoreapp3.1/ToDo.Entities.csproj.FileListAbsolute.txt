@@ -1,0 +1,9 @@
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.deps.json
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.pdb
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.csprojAssemblyReference.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.AssemblyInfoInputs.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.AssemblyInfo.cs
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.csproj.CoreCompileInputs.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.pdb
