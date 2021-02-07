@@ -1,12 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ToDo.Business.Abstract;
+using ToDo.Business.Concrete;
+using ToDo.DataAccess.Abstract;
+using ToDo.DataAccess.Concrete;
 
 namespace ToDo.API
 {
@@ -17,6 +16,8 @@ namespace ToDo.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSingleton<IItemService, ItemManager>();
+            services.AddSingleton<IItemRepository, ItemRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

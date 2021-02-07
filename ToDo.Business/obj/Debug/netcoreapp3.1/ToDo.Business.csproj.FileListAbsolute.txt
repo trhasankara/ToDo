@@ -1,0 +1,14 @@
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.deps.json
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.pdb
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.DataAccess.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Entities.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.DataAccess.pdb
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Entities.pdb
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csprojAssemblyReference.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.AssemblyInfoInputs.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.AssemblyInfo.cs
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csproj.CoreCompileInputs.cache
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csproj.CopyComplete
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.dll
+D:\Working\Denemeler\Todo\Todo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.pdb

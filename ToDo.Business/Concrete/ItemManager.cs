@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using ToDo.Business.Abstract;
+using ToDo.DataAccess.Abstract;
 using ToDo.DataAccess.Concrete;
 using ToDo.Entities;
 
@@ -9,10 +10,10 @@ namespace ToDo.Business.Concrete
 {
     public class ItemManager:IItemService
     {
-        ItemRepository _itemRepository;
-        public ItemManager()
+        IItemRepository _itemRepository;
+        public ItemManager(IItemRepository itemRepository)
         {
-            _itemRepository = new ItemRepository();
+            _itemRepository = itemRepository;
         }
         public List<Item> getList()
         {
